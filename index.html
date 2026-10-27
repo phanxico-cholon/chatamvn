@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="siteTitle">Giáo xứ Thánh Phanxicô Xaviê Chợ Lớn - Thông tin Mục vụ</title>
+  <meta name="description" content="Trang thông tin chính thức của Giáo xứ Thánh Phanxicô Xaviê Chợ Lớn | Nhà thờ Cha Tam | CHATAMVN - Giờ lễ, Tin tức, Giáo lý, Sinh hoạt, Trực tuyến Thánh lễ, Lịch sử và Tra cứu mục vụ.">
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- TOP BAR: THANH CHỌN NGÔN NGỮ -->
+  <div class="top-lang-bar">
+    <div class="lang-container">
+      <span class="lang-label">🌐 Ngôn ngữ / Language:</span>
+      <select id="langSelector" aria-label="Chọn ngôn ngữ">
+        <option value="vi" selected>Tiếng Việt</option>
+        <option value="zh-tw">繁體中文</option>
+        <option value="zh-cn">简体中文</option>
+        <option value="en">English</option>
+        <option value="fr">Français</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="header-container">
+      <div class="cross-icon">✝</div>
+      <h1 id="parishName">GIÁO XỨ THÁNH PHANXICÔ XAVIÊ CHỢ LỚN</h1>
+      <p class="subtitle" id="parishSubtitle">ĐỨC TIN - PHỤNG VỤ - VĂN HÓA</p>
+    </div>
+  </header>
+
+  <!-- NAVIGATION MENU (10 Mục Cấp 1) -->
+  <nav class="main-navigation" aria-label="Menu chính">
+    <div class="nav-container" id="mainMenuContainer">
+      <!-- Menu sẽ được render động bằng JavaScript dựa theo ngôn ngữ -->
+    </div>
+  </nav>
+
+  <!-- MAIN CONTENT CONTAINER -->
+  <main class="site-main">
+    <div id="contentLoading" class="status-message">Đang tải nội dung...</div>
+    <div id="pageContentArea">
+      <!-- Nội dung chi tiết từng trang/menu sẽ hiển thị tại đây -->
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <p id="footerText">“Chúng con nguyện Danh Cha cả sáng, nước Cha trị đến, ý Cha thể hiện dưới đất cũng như trên trời.”</p>
+    <p class="copyright">© 2026 CHATAMVN. All rights reserved.</p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
