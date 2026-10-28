@@ -1,0 +1,98 @@
+{
+  "langCode": "vi",
+  "parishName": "GIÁO XỨ THÁNH PHANXICÔ XAVIÊ CHỢ LỚN",
+  "parishSubtitle": "NHÀ THỜ CHA TAM - ĐỨC TIN & VĂN HÓA",
+  "footerText": "“Chúng con nguyện Danh Cha cả sáng, nước Cha trị đến, ý Cha thể hiện dưới đất cũng như trên trời.”",
+  "menu": [
+    {
+      "id": "trang-chu",
+      "title": "TRANG CHỦ",
+      "content": "<h2>Chào mừng quý khách và cộng đoàn đến với Giáo xứ Thánh Phanxicô Xaviê (Nhà thờ Cha Tam).</h2><p>Xin chọn các mục menu phía trên để xem thông tin chi tiết về lịch lễ, sinh hoạt mục vụ, giáo lý và các dịch vụ của giáo xứ.</p>"
+    },
+    {
+      "id": "gioi-thieu",
+      "title": "GIỚI THIỆU",
+      "subMenu": [
+        {"title": "Chủ chăn Giáo hội", "content": "<h2>Chủ chăn Giáo hội</h2><p>Thông tin về Đức Thánh Cha và Giáo triều Rôma.</p>"},
+        {"title": "Chủ chăn Giáo phận", "content": "<h2>Chủ chăn Giáo phận</h2><p>Thông tin về Đức Tổng Giám mục Tổng Giáo phận Hồ Chí Minh.</p>"},
+        {"title": "Chủ chăn Giáo xứ", "content": "<h2>Chủ chăn Giáo xứ</h2><p>Thông tin về Cha Sở và các Cha phó đang mục vụ tại Giáo xứ Thánh Phanxicô Xaviê.</p>"},
+        {"title": "Hội đồng Giáo xứ", "content": "<h2>Hội đồng Giáo xứ</h2><p>Danh sách Ban Thường vụ và các ban ngành trong Hội đồng Mục vụ Giáo xứ.</p>"}
+      ]
+    },
+    {
+      "id": "lich-su",
+      "title": "LỊCH SỬ",
+      "subMenu": [
+        {"title": "Lịch sử Cứu độ", "content": "<h2>Lịch sử Cứu độ</h2><p>Hồng ân Thiên Chúa trong lịch sử cứu độ nhân loại.</p>"},
+        {"title": "Lịch sử Giáo hội", "content": "<h2>Lịch sử Giáo hội</h2><p>Các mốc lịch sử quan trọng của Giáo hội Công giáo hoàn vũ.</p>"},
+        {"title": "Lịch sử Giáo xứ", "content": "<h2>Lịch sử Giáo xứ Thánh Phanxicô Xaviê</h2><p>Quá trình hình thành và phát triển của Nhà thờ Cha Tam từ cuối thế kỷ 19 đến nay qua các thời kỳ lịch sử tại khu vực Chợ Lớn.</p>"}
+      ]
+    },
+    {
+      "id": "muc-vu",
+      "title": "MỤC VỤ",
+      "subMenu": [
+        {"title": "Giáo khu", "content": "<h2>Các Giáo khu</h2><p>Thông tin sinh hoạt và lịch thánh lễ tại các giáo khu trong giáo xứ.</p>"},
+        {"title": "Truyền giáo - Thánh kinh", "content": "<h2>Truyền giáo & Thánh kinh</h2><p>Hội nhóm và các lớp tìm hiểu Kinh Thánh, hoạt động truyền giáo.</p>"},
+        {"title": "Ca đoàn - Đoàn thể", "content": "<h2>Ca đoàn & Đoàn thể</h2><p>Lịch tập hát, sinh hoạt của các ca đoàn và hội đoàn (Lê-giô Ma-ri-a, Huynh đoàn Đa Minh...).</p>"},
+        {"title": "Thiếu nhi - Giới trẻ - Di dân", "content": "<h2>Thiếu nhi, Giới trẻ & Di dân</h2><p>Sinh hoạt giới trẻ, giáo lý thiếu nhi và chăm sóc mục vụ đồng bào di dân (đặc biệt cộng đoàn nói tiếng Hoa).</p>"}
+      ]
+    },
+    {
+      "id": "giao-ly-bi-tich",
+      "title": "GIÁO LÝ / BÍ TÍCH",
+      "subMenu": [
+        {"title": "Trở thành người Công Giáo", "content": "<h2>Trở thành người Công Giáo</h2><p>Hướng dẫn cho những ai muốn tìm hiểu đạo và gia nhập Hội Thánh.</p>"},
+        {"title": "Tóm lược đạo Công Giáo", "content": "<h2>Tóm lược đạo Công Giáo</h2><p>Các chân lý đức tin căn bản của người tín hữu.</p>"},
+        {"title": "Ghi danh lớp giáo lý dự tòng", "content": "<h2>Ghi danh lớp giáo lý dự tòng</h2><p>Lịch khai giảng và thủ tục ghi danh học lớp dự tòng, hôn nhân.</p>"},
+        {"title": "Đăng ký Rửa tội trẻ nhỏ", "content": "<h2>Đăng ký Rửa tội trẻ nhỏ</h2><p>Thủ tục và lịch ban Bí tích Rửa tội cho các em thiếu nhi.</p>"},
+        {"title": "Quy định về thủ tục hôn phối", "content": "<h2>Quy định về thủ tục hôn phối</h2><p>Các bước chuẩn bị hồ sơ và thủ tục khi kết hôn trong Giáo hội.</p>"},
+        {"title": "Ghi danh lớp giáo lý hôn nhân", "content": "<h2>Ghi danh lớp giáo lý hôn nhân</h2><p>Thông tin lịch học các lớp chuẩn bị hôn nhân.</p>"},
+        {"title": "Ghi danh lớp giáo lý thiếu nhi", "content": "<h2>Ghi danh lớp giáo lý thiếu nhi</h2><p>Lịch học giáo lý Thánh Thể các ngày Chúa nhật.</p>"}
+      ]
+    },
+    {
+      "id": "tai-lieu",
+      "title": "TÀI LIỆU",
+      "subMenu": [
+        {"title": "Thông báo Giáo xứ - Giáo phận", "content": "<h2>Thông báo chung</h2><p>Các văn bản thông báo mới nhất từ Tòa Giám mục và Giáo xứ.</p>"},
+        {"title": "Văn kiện Giáo hội", "content": "<h2>Văn kiện Giáo hội</h2><p>Các thông điệp, tông huấn từ Tòa Thánh.</p>"},
+        {"title": "Giáo lý Công Giáo", "content": "<h2>Sách Giáo lý Hội Thánh Công Giáo</h2><p>Tài liệu tra cứu giáo lý trực tuyến.</p>"},
+        {"title": "Công đồng Vatican II", "content": "<h2>Công đồng Vatican II</h2><p>Các văn bản cốt lõi của Công đồng Vatican II.</p>"},
+        {"title": "Văn hóa - Nghệ thuật Thánh", "content": "<h2>Văn hóa & Nghệ thuật Thánh</h2><p>Kiến trúc, thánh nhạc và nghệ thuật truyền thống Công giáo.</p>"},
+        {"title": "Các biểu mẫu của giáo xứ", "content": "<h2>Biểu mẫu tải về</h2><p>Các mẫu đơn xin giấy chứng nhận rửa tội, hôn phối, giới thiệu...</p>"}
+      ]
+    },
+    {
+      "id": "nha-cho-phuc-sinh",
+      "title": "NHÀ CHỜ PHỤC SINH",
+      "content": "<h2>Nhà Chờ Phục Sinh</h2><p>Hệ thống tra cứu vị trí hộc lưu giữ và lịch cầu nguyện thân nhân tại giáo xứ.</p>"
+    },
+    {
+      "id": "tin-hiep-thong",
+      "title": "TIN HIỆP THÔNG",
+      "subMenu": [
+        {"title": "Tòa Thánh - Thế giới", "content": "<h2>Tin tức Tòa Thánh & Thế giới</h2><p>Hoạt động của Đức Thánh Cha và Giáo hội toàn cầu.</p>"},
+        {"title": "GH Việt Nam - Tổng Giáo phận", "content": "<h2>Tin tức Việt Nam & Giáo phận</h2><p>Sinh hoạt các giáo phận tại Việt Nam.</p>"},
+        {"title": "Giáo xứ - Đoàn thể", "content": "<h2>Tin tức Giáo xứ</h2><p>Các sinh hoạt mục vụ, bác ái xã hội trong giáo xứ.</p>"}
+      ]
+    },
+    {
+      "id": "phung-vu",
+      "title": "PHỤNG VỤ",
+      "subMenu": [
+        {"title": "Dẫn lễ - Thánh nhạc", "content": "<h2>Dẫn lễ & Thánh nhạc</h2><p>Lời nguyện tín hữu, tài liệu ca đoàn và hướng dẫn phụng vụ.</p>"},
+        {"title": "Chầu Thánh Thể", "content": "<h2>Lịch Chầu Thánh Thể</h2><p>Lịch phiên chầu lượt và các giờ chầu đền tạ trong giáo xứ.</p>"},
+        {"title": "Các nghi thức", "content": "<h2>Các nghi thức phụng vụ</h2><p>Hướng dẫn cử hành các thánh lễ đặc biệt, tuần thánh, giỗ tết...</p>"}
+      ]
+    },
+    {
+      "id": "suy-niem",
+      "title": "SUY NIỆM",
+      "subMenu": [
+        {"title": "Lời Chúa - Đức Mẹ", "content": "<h2>Lời Chúa hằng ngày & Suy niệm mẫu chuyện Đức Mẹ</h2><p>Chia sẻ Tin Mừng mỗi ngày.</p>"},
+        {"title": "Chư Thánh - Hồi tâm", "content": "<h2>Hạnh các Thánh & Giờ hồi tâm</h2><p>Gương sáng các thánh nhân và suy niệm tĩnh tâm.</p>"}
+      ]
+    }
+  ]
+}
